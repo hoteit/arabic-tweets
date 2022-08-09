@@ -1,0 +1,12 @@
+tweepy
+schedule
+pandas
+jupyterlab
+jupyter
+django
+psycopg2-binary
+django-extensions
+python-decouple
+coverage
+django-cors-headers
+django-yarn
